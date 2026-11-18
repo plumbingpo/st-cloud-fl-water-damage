@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationstcloud.com/sitemap.xml
